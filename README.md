@@ -50,4 +50,11 @@ do that, however, the marketing analyst team needs to better understand how annu
 casual riders would buy a membership, and how digital media could affect their marketing tactics. Moreno and her team are
 interested in analyzing the Cyclistic historical bike trip data to identify trends
 
-## Google Capstone Project
+## ASK
+Three questions will guide the future marketing program:
+1. How do annual members and casual riders use Cyclistic bikes differently?
+2. Why would casual riders buy Cyclistic annual memberships?
+3. How can Cyclistic use digital media to influence casual riders to become members?
+
+Moreno has assigned you the first question to answer: How do annual members and casual riders use Cyclistic bikes
+differently?
