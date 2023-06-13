@@ -1,4 +1,5 @@
-# GoogleCapstoneProject
+## Google Capstone Project
+
 **Scenario**
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
@@ -8,6 +9,7 @@ must approve your recommendations, so they must be backed up with compelling dat
 visualizations.
 
 **Characters and teams**
+
 ● Cyclistic: A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself
 apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with
 disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about
@@ -23,6 +25,7 @@ achieve them.
 recommended marketing program. 
  
 **About the company**
+
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that
 are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and
 returned to any other station in the system anytime.
